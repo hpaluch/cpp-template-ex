@@ -10,7 +10,7 @@ Setup on Ubuntu 14
 
 As root or via sudo install:
 
-	apt-get install eclipse-cdt eclipse-cdt-valgrind libboost-system-dev libstdc++-4.8-dev make g++
+	apt-get install eclipse-cdt libstdc++-4.8-dev make g++
 
 As unprivileged user issue:
 
