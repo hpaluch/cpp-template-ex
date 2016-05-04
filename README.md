@@ -53,6 +53,12 @@ Run compiled binary:
 
 	~/projects/cpp-template-ex/Release/cpp-template-ex
 
+Note: once you have done 1st eclipse build you can rebuild code just issuing:
+
+	cd ~/projects/cpp-template-ex/Release
+	make all
+	./cpp-template-ex
+
 Resources
 =========
 
